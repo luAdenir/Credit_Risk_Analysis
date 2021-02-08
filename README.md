@@ -2,7 +2,7 @@
 
 ## Preview:
 
-This is a loan prediction risk analysis using credit card dataset from Lending Club, Python, Scikit-Learn libraries to build and evaluate several machine learning models.
+This is a loan prediction risk analysis using credit card dataset from Lending Club, Python and Scikit-Learn libraries to build and evaluate several machine learning models.
 
 
 ## Results:
