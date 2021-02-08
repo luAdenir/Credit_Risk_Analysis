@@ -114,3 +114,8 @@ This model has:
 
 <img width="716" alt="Easy Ensemble AdaBoost classifier" src="https://user-images.githubusercontent.com/71112826/107159676-7c5c8f00-6946-11eb-859b-8a2840464a10.png">
 
+
+## Summary:
+
+All machine learning models used in this analysis has the same precision value of 99%. But among all these models used, Easy Ensemble AdaBoost classifier performs the best across all metrics. Therefore, Easy Ensemble AdaBoost is the best classifier in distinguishing between low risk and high risk loans.
+
